@@ -1,0 +1,44 @@
+/* 
+    Document   : error404style
+    Created on : Nov 2, 2012, 9:46:03 AM
+    Author     : Justin Walrath <walrathjaw@gmail.com>
+    Description:
+        Aligns all of the elements in the 404 error page.
+*/
+
+root{ 
+    display: block;
+}
+
+#error404Image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#homeLink{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    width: 600px;
+}
+#homeLinkText{
+    text-align: left;
+}
+
+#errorDescription{
+    margin-left: 3em;
+    font-size: 120%;
+}
+
+#headerBlock{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    width: 980px;
+}
+
+.newH1{
+    font-size: 300%;
+}
